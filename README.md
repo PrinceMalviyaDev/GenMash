@@ -48,14 +48,27 @@
 <div align="left">
   <h3>🍬 Jhama Sweets, Mumbai</h3>
   <p><b>Scope:</b> Full E-commerce overhaul, Inventory Management, and Premium UI/UX.</p>
+
   <a href="https://jhamasweets.com">
-    <img src="https://www.github.com/PrinceMalviyaDev/GenMash/assets/jhama.png" width="800" alt="Jhama Sweets Project" style="border-radius: 15px; box-shadow: 0px 10px 30px rgba(0, 209, 255, 0.3);"/>
+    <table>
+      <tr>
+        <td><img src="assets/jhama1.png" width="390"/></td>
+        <td><img src="assets/jhama2.png" width="390"/></td>
+      </tr>
+      <tr>
+        <td><img src="assets/jhama3.png" width="390"/></td>
+        <td><img src="assets/jhama4.png" width="390"/></td>
+      </tr>
+    </table>
   </a>
+
   <br/>
+
   <a href="https://jhamasweets.com">
-    <img src="https://img.shields.io/badge/Visit_Site-E4405F?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit_Site-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </div>
+
 
 <br/>
 
@@ -63,12 +76,24 @@
 <div align="right">
   <h3>🍪 Queen Cookies, Mumbai</h3>
   <p><b>Scope:</b> Brand Revitalization, Animation-rich landing page, and seamless checkout.</p>
+
   <a href="https://queencookies.in">
-    <img src="www.github.com/PrinceMalviyaDev/GenMash/assets/jhama.png" width="800" alt="Queen Cookies Project" style="border-radius: 15px; box-shadow: 0px 10px 30px rgba(255, 0, 127, 0.3);"/>
+    <table>
+      <tr>
+        <td><img src="assets/queen1.png" width="390"/></td>
+        <td><img src="assets/queen2.png" width="390"/></td>
+      </tr>
+      <tr>
+        <td><img src="assets/queen3.png" width="390"/></td>
+        <td><img src="assets/queen4.png" width="390"/></td>
+      </tr>
+    </table>
   </a>
+
   <br/>
+
   <a href="https://queencookies.in">
-    <img src="https://img.shields.io/badge/Visit_Site-E4405F?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit_Site-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </div>
 
