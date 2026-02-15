@@ -7,7 +7,7 @@
 
 <!-- SLOGAN TYPING -->
 <a href="https://genmash.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&lines=INNOVATING+THE+DIGITAL+LANDSCAPE;WE+BUILD+BREATHTAKING+WEBSITES;EXPERT+WEBSITE+RENOVATION;EXPERTISE+IN+AI/ML+MODELS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=009FCC&center=true&vCenter=true&width=800&lines=INNOVATING+THE+DIGITAL+LANDSCAPE;WE+BUILD+BREATHTAKING+WEBSITES;EXPERT+WEBSITE+RENOVATION;EXPERTISE+IN+AI/ML+MODELS" alt="Typing SVG" />
 </a>
 
 <br/><br/>
