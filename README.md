@@ -40,6 +40,8 @@
 
 <br/>
 
+<div align="center">
+
 ## 🍬 Jhama Sweets – Mumbai
 
 > **Scope:** Full E-commerce Overhaul • Inventory Automation • Premium UI/UX
@@ -63,7 +65,11 @@
 <img src="https://img.shields.io/badge/🌐%20Visit%20Live%20Site-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🍪 Queen Cookies – Mumbai
 
@@ -81,6 +87,14 @@
 </tr>
 </table>
 </a>
+
+<br/>
+
+<a href="https://queencookies.in">
+<img src="https://img.shields.io/badge/🌐%20Visit%20Live%20Site-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
 
 <br/>
 
